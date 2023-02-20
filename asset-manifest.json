@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5738b35.css",
+    "main.js": "/static/js/main.6e0bb4a5.js",
+    "static/js/787.bd9d6125.chunk.js": "/static/js/787.bd9d6125.chunk.js",
+    "static/media/shopall.png": "/static/media/shopall.0a99dd92a09f6c0473b9.png",
+    "static/media/skinstoreproject.png": "/static/media/skinstoreproject.9746c8c3ff54336b566d.png",
+    "static/media/glambgodess.png": "/static/media/glambgodess.be6bb918304886a4f637.png",
+    "static/media/figma.png": "/static/media/figma.7888cc72a3a01656c921.png",
+    "static/media/thumbup1.png": "/static/media/thumbup1.35f1d6c55fa9715ab511.png",
+    "static/media/sonia.png": "/static/media/sonia.f7ae9866a2c0d71c3e64.png",
+    "static/media/Sonia_Diwedi.pdf": "/static/media/Sonia_Diwedi.3488fd926eb36a3d7643.pdf",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/skinstore.png": "/static/media/skinstore.7c4ee65618bc79a49a6c.png",
+    "static/media/ikea.png": "/static/media/ikea.bfeedc792d08d9a66e17.png",
+    "static/media/mongodb.png": "/static/media/mongodb.c62b518284e24fc851ac.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.c5738b35.css.map": "/static/css/main.c5738b35.css.map",
+    "main.6e0bb4a5.js.map": "/static/js/main.6e0bb4a5.js.map",
+    "787.bd9d6125.chunk.js.map": "/static/js/787.bd9d6125.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5738b35.css",
+    "static/js/main.6e0bb4a5.js"
+  ]
+}
