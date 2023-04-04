@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.861c2040.css",
-    "main.js": "/static/js/main.d2ad4aee.js",
+    "main.css": "/static/css/main.3be5ed27.css",
+    "main.js": "/static/js/main.137cd3ec.js",
     "static/media/shopall.png": "/static/media/shopall.0a99dd92a09f6c0473b9.png",
     "static/media/skinstoreproject.png": "/static/media/skinstoreproject.9746c8c3ff54336b566d.png",
     "static/media/glambgodess.png": "/static/media/glambgodess.be6bb918304886a4f637.png",
@@ -16,6 +16,7 @@
     "static/media/timeManage.png": "/static/media/timeManage.4644a4b2b8ed5f538eec.png",
     "static/media/dsa.png": "/static/media/dsa.77509298a343d123a7bd.png",
     "static/media/Sonia_Diwedi.pdf": "/static/media/Sonia_Diwedi.3488fd926eb36a3d7643.pdf",
+    "static/media/Sonia-Diwedi-Resume.pdf": "/static/media/Sonia-Diwedi-Resume.1c12cce74a58a22cafca.pdf",
     "static/media/chakraui.png": "/static/media/chakraui.15320604467d004df871.png",
     "static/media/ndtv.jpg": "/static/media/ndtv.93a3790b125c5bd15f57.jpg",
     "static/media/rymo.webp": "/static/media/rymo.a9dc531e200296eee18e.webp",
@@ -33,11 +34,11 @@
     "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
     "static/media/netlify.svg": "/static/media/netlify.74896431af95f4ab7d84bc511bbe7126.svg",
     "index.html": "/index.html",
-    "main.861c2040.css.map": "/static/css/main.861c2040.css.map",
-    "main.d2ad4aee.js.map": "/static/js/main.d2ad4aee.js.map"
+    "main.3be5ed27.css.map": "/static/css/main.3be5ed27.css.map",
+    "main.137cd3ec.js.map": "/static/js/main.137cd3ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.861c2040.css",
-    "static/js/main.d2ad4aee.js"
+    "static/css/main.3be5ed27.css",
+    "static/js/main.137cd3ec.js"
   ]
 }
