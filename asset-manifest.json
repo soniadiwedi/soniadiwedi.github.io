@@ -1,25 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.3be5ed27.css",
-    "main.js": "/static/js/main.75c6a4d4.js",
+    "main.js": "/static/js/main.70a2b12a.js",
     "static/media/shopall.png": "/static/media/shopall.0a99dd92a09f6c0473b9.png",
     "static/media/skinstoreproject.png": "/static/media/skinstoreproject.9746c8c3ff54336b566d.png",
+    "static/media/flipkart.png": "/static/media/flipkart.8ea4f50b79e53e67490a.png",
     "static/media/glambgodess.png": "/static/media/glambgodess.be6bb918304886a4f637.png",
-    "static/media/landing.png": "/static/media/landing.8246648a4d427420fcb0.png",
     "static/media/creativity1.png": "/static/media/creativity1.445675a0a00c2757a1d6.png",
-    "static/media/clockify.png": "/static/media/clockify.666b21bbad774180878a.png",
-    "static/media/weather_app.png": "/static/media/weather_app.35acecf8965d57da41ca.png",
-    "static/media/zoomcar.jpg": "/static/media/zoomcar.9afc1ae7d0706d214ef8.jpg",
-    "static/media/profile.png": "/static/media/profile.f8fd06657b8ee1a4fe6f.png",
     "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
-    "static/media/my_portfolio.png": "/static/media/my_portfolio.663df2b0ca91d3baf01c.png",
     "static/media/timeManage.png": "/static/media/timeManage.4644a4b2b8ed5f538eec.png",
     "static/media/dsa.png": "/static/media/dsa.77509298a343d123a7bd.png",
     "static/media/Sonia_Diwedi.pdf": "/static/media/Sonia_Diwedi.3488fd926eb36a3d7643.pdf",
     "static/media/Sonia-Diwedi-Resume.pdf": "/static/media/Sonia-Diwedi-Resume.1c12cce74a58a22cafca.pdf",
     "static/media/chakraui.png": "/static/media/chakraui.15320604467d004df871.png",
-    "static/media/ndtv.jpg": "/static/media/ndtv.93a3790b125c5bd15f57.jpg",
-    "static/media/rymo.webp": "/static/media/rymo.a9dc531e200296eee18e.webp",
     "static/media/projectManagement.png": "/static/media/projectManagement.56532bbb9da241b0f1c8.png",
     "static/media/backend.png": "/static/media/backend.cd86763da06f05c86ca6.png",
     "static/media/problemSolv.png": "/static/media/problemSolv.ddf49384f01d0b6de6c0.png",
@@ -35,10 +28,10 @@
     "static/media/netlify.svg": "/static/media/netlify.74896431af95f4ab7d84bc511bbe7126.svg",
     "index.html": "/index.html",
     "main.3be5ed27.css.map": "/static/css/main.3be5ed27.css.map",
-    "main.75c6a4d4.js.map": "/static/js/main.75c6a4d4.js.map"
+    "main.70a2b12a.js.map": "/static/js/main.70a2b12a.js.map"
   },
   "entrypoints": [
     "static/css/main.3be5ed27.css",
-    "static/js/main.75c6a4d4.js"
+    "static/js/main.70a2b12a.js"
   ]
 }
