@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3be5ed27.css",
+    "main.css": "/static/css/main.4a536091.css",
     "main.js": "/static/js/main.70a2b12a.js",
     "static/media/shopall.png": "/static/media/shopall.0a99dd92a09f6c0473b9.png",
     "static/media/skinstoreproject.png": "/static/media/skinstoreproject.9746c8c3ff54336b566d.png",
@@ -27,11 +27,11 @@
     "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
     "static/media/netlify.svg": "/static/media/netlify.74896431af95f4ab7d84bc511bbe7126.svg",
     "index.html": "/index.html",
-    "main.3be5ed27.css.map": "/static/css/main.3be5ed27.css.map",
+    "main.4a536091.css.map": "/static/css/main.4a536091.css.map",
     "main.70a2b12a.js.map": "/static/js/main.70a2b12a.js.map"
   },
   "entrypoints": [
-    "static/css/main.3be5ed27.css",
+    "static/css/main.4a536091.css",
     "static/js/main.70a2b12a.js"
   ]
 }
