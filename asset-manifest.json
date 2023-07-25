@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.849ea559.css",
-    "main.js": "/static/js/main.841daec8.js",
+    "main.js": "/static/js/main.72044d04.js",
     "static/media/youtube.png": "/static/media/youtube.7150ccd52e6a60296c8b.png",
     "static/media/vastra.png": "/static/media/vastra.728049e0b36bfb77c996.png",
     "static/media/shopall.png": "/static/media/shopall.0a99dd92a09f6c0473b9.png",
@@ -12,8 +12,7 @@
     "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
     "static/media/timeManage.png": "/static/media/timeManage.4644a4b2b8ed5f538eec.png",
     "static/media/dsa.png": "/static/media/dsa.77509298a343d123a7bd.png",
-    "static/media/Sonia_Diwedi.pdf": "/static/media/Sonia_Diwedi.3488fd926eb36a3d7643.pdf",
-    "static/media/Sonia-Diwedi-Resume.pdf": "/static/media/Sonia-Diwedi-Resume.1c12cce74a58a22cafca.pdf",
+    "static/media/Sonia_Diwedi.pdf": "/static/media/Sonia_Diwedi.1c7308d43389fddc04ec.pdf",
     "static/media/chakraui.png": "/static/media/chakraui.15320604467d004df871.png",
     "static/media/projectManagement.png": "/static/media/projectManagement.56532bbb9da241b0f1c8.png",
     "static/media/backend.png": "/static/media/backend.cd86763da06f05c86ca6.png",
@@ -30,10 +29,10 @@
     "static/media/netlify.svg": "/static/media/netlify.74896431af95f4ab7d84bc511bbe7126.svg",
     "index.html": "/index.html",
     "main.849ea559.css.map": "/static/css/main.849ea559.css.map",
-    "main.841daec8.js.map": "/static/js/main.841daec8.js.map"
+    "main.72044d04.js.map": "/static/js/main.72044d04.js.map"
   },
   "entrypoints": [
     "static/css/main.849ea559.css",
-    "static/js/main.841daec8.js"
+    "static/js/main.72044d04.js"
   ]
 }
