@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.849ea559.css",
-    "main.js": "/static/js/main.e31e6de8.js",
+    "main.js": "/static/js/main.f19006c5.js",
     "static/media/youtube.png": "/static/media/youtube.7150ccd52e6a60296c8b.png",
     "static/media/vastra.png": "/static/media/vastra.728049e0b36bfb77c996.png",
     "static/media/shopall.png": "/static/media/shopall.0a99dd92a09f6c0473b9.png",
@@ -29,10 +29,10 @@
     "static/media/netlify.svg": "/static/media/netlify.74896431af95f4ab7d84bc511bbe7126.svg",
     "index.html": "/index.html",
     "main.849ea559.css.map": "/static/css/main.849ea559.css.map",
-    "main.e31e6de8.js.map": "/static/js/main.e31e6de8.js.map"
+    "main.f19006c5.js.map": "/static/js/main.f19006c5.js.map"
   },
   "entrypoints": [
     "static/css/main.849ea559.css",
-    "static/js/main.e31e6de8.js"
+    "static/js/main.f19006c5.js"
   ]
 }
